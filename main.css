@@ -2,7 +2,7 @@ body
 {
     min-width: 1200px;
     background-size: 100%;
-   background-image: url('strah.jpeg')
+   background-image: url('strah.jpeg') no-repeat;
    
 }
 .btn1
