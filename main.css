@@ -1,0 +1,27 @@
+body
+{
+    min-width: 1200px;
+    background-size: 100%;
+   background-image: url('strah.jpeg')
+   
+}
+.btn1
+{
+   
+position: absolute;
+margin-left: 628px;
+margin-top: 380px;
+      
+}
+.arrows
+{
+position: absolute;
+margin-top: -430px;
+margin-left: -260px;
+padding: 0px;
+}
+.audio 
+{
+    margin-top: 20px;
+
+}
